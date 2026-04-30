@@ -34,3 +34,7 @@ google-services.json
 *.hprof
 .env
 backend/.env
+__pycache__/
+*.pyc
+backend/security_of_api
+venv/
